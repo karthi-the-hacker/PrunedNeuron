@@ -3,7 +3,7 @@
 I'm a 22 year old graphic designer 🎨 and developer 💻 from 🇮🇳.
 I like working with React (in TypeScript) and Spring (in Java).
 
-🔭 I’m currently working on my personal website, which you can visit by clicking [https://ayushm.dev/](here).
+🔭 I’m currently working on my personal website, which you can visit by clicking [here](https://ayushm.dev/).
 
 <!--
 **PrunedNeuron/PrunedNeuron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
