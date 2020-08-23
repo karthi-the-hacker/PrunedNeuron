@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hey there 👋
 
 I'm a 22 year old graphic designer 🎨 and developer 💻 from 🇮🇳.
-I like working with React (in TypeScript) and Spring (in Java).
+I primarily work with Java (Spring, etc) and TypeScript (React, Node, etc).
 
-🔭 I’m currently working on my personal website, which you can visit by clicking [here](https://ayushm.dev/).
+🔭 I’m currently working on my personal website, which you can visit by clicking [here](https://ayushm.dev).
+🖊 Check out my blog [here](https://ayushm.dev/blog).
+🌱 I’m currently learning [Golang](https://golang.org/).
+📫 Reach me via [email](mailto:am@ayushm.dev)
 
 <!--
 **PrunedNeuron/PrunedNeuron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
